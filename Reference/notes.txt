@@ -1,0 +1,28 @@
+API :
+-> REST (Representation State Transfer) - Pref
+-> SOAP (Simple Object Access Protocol)
+-> JSON & XML RPC (Remote Procedural Call)
+
+REST : 
+-> defines a set of Constraints / rules 
+-> client - server model 
+-> response in JSON format 
+-> request GET/POST/PUT/DELETE method 
+
+HTTP methods in REST : 
+C -> Create -> POST
+R -> Read   -> GET 
+U -> Update -> PUT
+D -> Delete -> DELETE
+
+EndPoint :
+-> Simple URL to use API 
+
+Different parts of EndPoint :
+-> The API Root EndPoint
+-> The API Path 
+-> Path Parameter 
+-> Query Parameter 
+
+
+
